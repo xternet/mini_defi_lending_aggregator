@@ -15,4 +15,4 @@
 </br>```trufle exec script/2_rebalance.js```
 </br>
 </br>Todo, add script for withdraw/end supplying
-</br>!Note: To reset data, restart ganache-cli after each test.
+</br>!Note: To reset data, restart ganache-cli
